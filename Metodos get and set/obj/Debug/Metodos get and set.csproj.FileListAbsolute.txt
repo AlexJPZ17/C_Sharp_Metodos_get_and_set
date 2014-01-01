@@ -1,0 +1,6 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Metodos get and set\Metodos get and set\bin\Debug\Metodos get and set.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Metodos get and set\Metodos get and set\bin\Debug\Metodos get and set.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Metodos get and set\Metodos get and set\bin\Debug\Metodos get and set.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Metodos get and set\Metodos get and set\obj\Debug\Metodos get and set.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Metodos get and set\Metodos get and set\obj\Debug\Metodos get and set.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Metodos get and set\Metodos get and set\obj\Debug\Metodos get and set.pdb
